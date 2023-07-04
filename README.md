@@ -17,7 +17,6 @@
     5. 任务自定义悬浮提示   
     6. 和所有你觉得需要用到的需求 
 
-### [在线演示](http://wlui.com.cn/ui/gantt) - [GitHub](https://github.com/hql7)
 
 ### wl-gantt 与市面应用较广的大佬型插件对比
 
